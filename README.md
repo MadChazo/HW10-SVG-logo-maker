@@ -24,7 +24,7 @@ To invoke the application, make sure you are in the directory containing the ind
 If everything has worked correctly, you should see a notice in the terminal that the logo has been created. The logo that is generated from your input will be named logo.svg. The file will be located in the same directory as the index.js file for this application. You are welcome to rename the file and make any other edits you see fit to make when you move it out of this directory. If you don't move the file out of the directory it is generated in, the next logo you generate will overwrite that file.
 
 
-[Here is a link]() to a video demonstration of the application on Google Drive.
+[Here is a link](https://drive.google.com/file/d/1mgDtLb7VtipLN0elWRqk-lnGdvhEXgEl/view?usp=sharing) to a video demonstration of the application on Google Drive.
 
 ## License
 
