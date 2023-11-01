@@ -6,7 +6,7 @@
 • [Installation](#installation)  
 • [Usage](#usage)  
 • [License](#license)  
-• [Tests](#tests)
+• [Tests](#tests)  
 • [Credits](#credits)
 
 ## Description
